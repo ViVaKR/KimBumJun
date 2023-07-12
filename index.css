@@ -1,5 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cute+Font&display=swap");
+
+body {
+    font-family: "Noto Sans KR", sans-serif;
+}
 
 h1 {
-	font-family: 'Courgette', cursive;
+    font-family: "Courgette", cursive;
+}
+
+p {
+    font-family: "Cute Font", cursive;
 }
